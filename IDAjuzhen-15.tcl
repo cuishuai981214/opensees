@@ -1,0 +1,38 @@
+#########################################################################################
+#set juzhen [list [list RSN1380_CHICHI_KAU054-N.txt	1380	18000	0.005	0.0712]\
+#[list RSN2714_CHICHI.04_CHY046E.txt	2714	22000	0.005	0.1752]\
+#[list RSN284_ITALY_A-AUL000.txt	284	11824	0.0029	0.0623]\
+#[list RSN4205_NIIGATA_NIG015EW.txt	4205	16769	0.01	0.0866]\
+#[list RSN4207_NIIGATA_NIG017EW.txt	4207	29980	0.01	0.2995]\
+#[list RSN457_MORGAN_G03090.txt	457	7999	0.005	0.1867]\
+#[list RSN5265_CHUETSU_NIG019EW.txt	5265	30000	0.01	0.3881]\
+#[list RSN5274_CHUETSU_NIG028EW.txt	5274	29600	0.01	0.1499]\
+#[list RSN549_CHALFANT.A_A-LAD270.txt	549	7999	0.005	0.2464]\
+#[list RSN551_CHALFANT.A_A-CVK000.txt	551	7999	0.005	0.0566]\
+#[list RSN5619_IWATE_IWT011EW.txt	5619	25800	0.01	0.2266]\
+#[list RSN5776_IWATE_54010NS.txt	5776	6000	0.01	0.1576]\
+#[list RSN5783_IWATE_54026NS.txt	5783	12000	0.01	0.1888]\
+#[list RSN6893_DARFIELD_DFHSS17E.txt	6893	30000	0.005	0.4135]\
+#[list RSN970_NORTHR_FAI095.txt	970	3499	0.01	0.1162]\
+#]
+#########################################################################################
+
+#########################################################################################
+##½ü³¡µØÕð
+set juzhen [list [list RSN1148_KOCAELI_ARE090.txt	1148	6000	0.005	0.2224]\
+[list RSN1486_CHICHI_TCU046-E.txt	1486	17000	0.005	0.2298]\
+[list RSN1491_CHICHI_TCU051-N.txt	1491	18000	0.005	0.3992]\
+[list RSN1493_CHICHI_TCU053-E.txt	1493	18000	0.005	0.3069]\
+[list RSN179_IMPVALL.H_H-E04140.txt	179	7818	0.005	0.9335]\
+[list RSN181_IMPVALL.H_H-E06230.txt	181	7818	0.005	0.5807]\
+[list RSN185_IMPVALL.H_H-HVP225.txt	185	7573	0.005	0.4167]\
+[list RSN2457_CHICHI.03_CHY024N.txt	2457	22809	0.005	0.1136]\
+[list RSN292_ITALY_A-STU000.txt	292	16392	0.0024	0.3113]\
+[list RSN3746_CAPEMEND_CBF360.txt	3746	5723	0.005	0.6715]\
+[list RSN4228_NIIGATA_NIGH11NS.txt	4228	36000	0.005	0.4075]\
+[list RSN6961_DARFIELD_RKACS76E.txt	6961	13018	0.005	0.1532]\
+[list RSN764_LOMAP_GOF250.txt	764	7999	0.005	0.2781]\
+[list RSN766_LOMAP_G02000.txt	766	7998	0.005	0.3767]\
+[list RSN767_LOMAP_G03090.txt	767	7998	0.005	0.4217]\
+]
+#########################################################################################
